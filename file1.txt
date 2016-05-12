@@ -1,4 +1,8 @@
 created on remote
 changing from local
 changing from deelte from local
+<<<<<<< 120e1bbd4b17820a4bedbec56887d4aed7cd83a8
 changing xxxxxxxxxxxx
+=======
+changing fro\\\\\\\
+>>>>>>> +checking auto rebas
